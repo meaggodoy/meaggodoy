@@ -4,4 +4,4 @@
 
 <img src="https://img.shields.io/static/v1?label=Overview&message=meaggodoy&color=f8efd4&style=for-the-badge&logo=GitHub" alt="Static GitHub">
 
-<p>Sou estudante de ADS e CC e em busca de uma carreira na área de dados!<br/> Em busca de uma carreira na área de dados!</p>
+<p>Estudante de ADS e CC.<br/> Em busca de uma carreira na área de dados!</p>
